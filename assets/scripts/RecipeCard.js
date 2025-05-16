@@ -87,7 +87,7 @@ class RecipeCard extends HTMLElement {
 		  }`
 		  //Appending the <style> and <article> elements to the Shadow DOM		  
 		  shadow.append(elementRootStyle);
-		  shadow.append(elementRootStyle);
+		  shadow.append(elementRootArticle);
 	}
 
 	/**
